@@ -53,7 +53,7 @@ A: You can trade traditional financial assets like stocks and commodities direct
 
 ## Technical Specifications for Developers
 
-- **API Base URL:** `https://phemex.com/home-api`
+- **API Base URL:** [https://phemex.com/home-api](https://phemex.com/home-api)
 - **Rate Limits:** Professional-grade throughput optimized for high-frequency trading (HFT).
 - **Terms of Use:** https://phemex.com/help-center/phemex-terms-of-use
 - **Security:** https://phemex.com/security
